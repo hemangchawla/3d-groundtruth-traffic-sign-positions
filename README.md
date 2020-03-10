@@ -44,12 +44,9 @@ All annotation txt files (per Sequence) are of the format:
 ### Annotation Variance
 Since each raw sign position is annotated from multiple coresponding pairs of image and lidar scans, it's annotated position may vary slightly. Then the raw sign position annotations are averaged as explained above. There mean difference in the final positions of each sign and raw annotations is given below:
 
-| Var     | Mean  |
-|---------|-------|
-| x       | 0.035 |
-| y       | 0.021 |
-| z       | 0.034 |
-| Overall | 0.061 |
+| Var  | x     | y     | z     | Overall |
+|------|-------|-------|-------|---------|
+| Mean | 0.035 | 0.021 | 0.034 | 0.061   |
 
 ## Usage
 * Each folder contains txt files describing the raw (available), relative (available) and absolute (coming soon!) annotated traffic sign positions. 
