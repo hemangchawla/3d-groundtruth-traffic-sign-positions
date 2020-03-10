@@ -49,7 +49,7 @@ Since each raw sign position is annotated from multiple coresponding pairs of im
 | Mean | 0.035 | 0.021 | 0.034 | 0.061   |
 
 ## Usage
-* Each folder contains txt files describing the raw (available), relative (available) and absolute (coming soon!) annotated traffic sign positions. 
+* Each folder contains txt files describing the raw (available), relative (available) and absolute (coming soon!) annotated traffic sign positions for the corresponding KITTI sequence. 
 * The annotations can be loaded in `python` using `pandas`. 
   ```
   import pandas as pd
