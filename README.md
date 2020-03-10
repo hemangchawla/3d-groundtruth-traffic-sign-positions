@@ -40,3 +40,13 @@ All annotation txt files (per Sequence) are of the format:
 | Image ID | x   | y   | z   | GT ID |
 |----------|-----|-----|-----|-----------|
 | ...      | ... | ... | ... | ...       |
+
+## Annotation Variance
+Since each raw sign position is annotated from multiple coresponding pairs of image and lidar scans, it's annotated position may vary slightly. Then the raw sign position annotations are averaged as explained above. There mean difference in the final positions of each sign and raw annotations is given below:
+
+| Var     | Mean  |
+|---------|-------|
+| x       | 0.035 |
+| y       | 0.021 |
+| z       | 0.034 |
+| Overall | 0.061 |
