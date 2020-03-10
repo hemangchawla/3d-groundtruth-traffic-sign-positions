@@ -1,5 +1,4 @@
 # 3d Ground truth Traffic Sign Positions in KITTI
-Coming soon!
 
 This respository contains the annotated Ground Truth (GT) traffic sign 3D positions annotated using the LiDAR and images from the [KITTI raw dataset](http://www.cvlibs.net/datasets/kitti/raw_data.php).
 
@@ -29,6 +28,7 @@ A total of 73 signs are annotated across sequences 00 -> 10 (except 03 which is 
 * Calibration (Camera, Camera-to-GPS/IMU, Camera-to-Velodyne)
 
 ### Method
+Details Coming soon!
 
 ### Outputs
 * Relative Positions of signs in each sequence in format
