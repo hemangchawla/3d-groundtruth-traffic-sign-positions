@@ -9,7 +9,7 @@ A total of 73 signs are annotated across sequences 00 -> 10 (except 03 which is 
 | Seq |       Date_Drive      | # Signs Annotated |
 |:---:|:---------------------:|:-----------------:|
 |  00 | 2011_10_03_drive_0027 |         16        |
-|  01 | 2011_10_03_drive_0042 |         5         |
+|  01 | 2011_10_03_drive_0042 |         15        |
 |  02 | 2011_10_03_drive_0034 |         12        |
 |  04 | 2011_09_30_drive_0016 |         1         |
 |  05 | 2011_09_30_drive_0018 |         4         |
