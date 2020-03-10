@@ -19,3 +19,21 @@ A total of 73 signs are annotated across sequences 00 -> 10 (except 03 which is 
 |  09 | 2011_09_30_drive_0033 |         7         |
 |  10 | 2011_09_30_drive_0034 |         3         |
 
+## Annotation Process
+
+### Inputs 
+* LiDAR scans
+* Rectified and Synced Images
+* GT path (metric)
+* OXTS GPS
+* Calibration (Camera, Camera-to-GPS/IMU, Camera-to-Velodyne)
+
+### Method
+
+### Outputs
+* Relative Positions of signs in each sequence in format
+* Absolute Metric Positions of signs (wrt origin frame)
+* Absolute GPS Positions of signs
+All annotation txt files are of the format:
+| Image ID | x | y | z  | Seq GT ID |
+|----------|---|---|----|-----------|
