@@ -34,7 +34,9 @@ A total of 73 signs are annotated across sequences 00 -> 10 (except 03 which is 
 * Relative Positions of signs in each sequence in format
 * Absolute Metric Positions of signs (wrt origin frame)
 * Absolute GPS Positions of signs
+
 All annotation txt files are of the format:
+
 | Image ID | x   | y   | z   | Seq GT ID |
 |----------|-----|-----|-----|-----------|
 | ...      | ... | ... | ... | ...       |
