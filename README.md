@@ -2,6 +2,10 @@
 
 This respository contains the annotated Ground Truth (GT) traffic sign 3D positions annotated using the LiDAR and images from the [KITTI raw dataset](http://www.cvlibs.net/datasets/kitti/raw_data.php).
 
+## Usage
+If you use this dataset, please cite as:
+> H. Chawla, M. Jukola, T. Brouns, E. Arani, and B. Zonooz, "Crowdsourced 3D Mapping: A Combined Multi-View Geometry and Self-Supervised Learning Approach," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),Las Vegas, USA, IEEE (in press), 2020.
+
 ## Distribution of Signs
 A total of 73 signs are annotated across sequences 00 -> 10 (except 03 which is missing from KITTI raw) 
 
