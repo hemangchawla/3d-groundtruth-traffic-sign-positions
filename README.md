@@ -62,3 +62,4 @@ Since each raw sign position is annotated from multiple coresponding pairs of im
 ## Additional
 ### Detection Annotations
 GT annotations for the bounding box detections have also been provided.  
+Per-image annotation files contain the (x,y) coordinates of the 4 corners of the bounding boxes (8 values), with each row representing a different traffic sign. 
