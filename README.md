@@ -59,6 +59,6 @@ Since each raw sign position is annotated from multiple coresponding pairs of im
   import pandas as pd
   pd.read_csv(ground_truth_position_file,sep=';')
   ```
-  ## Additional
-  ### Detection Annotations
-  GT annotations for the bounding box detections have also been provided.  
+## Additional
+### Detection Annotations
+GT annotations for the bounding box detections have also been provided.  
